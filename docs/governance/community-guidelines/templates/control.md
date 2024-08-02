@@ -1,4 +1,4 @@
-# CCC.`Service Name Shorthand`: `Service Name` v`Version Identifier`
+# CCC.`Service Name Shorthand`: `Service Name`
 <!-- # CCC.OS: Object Storage v25.07 -->
 
 | Control Id | Service Taxonomy Id | Control |
