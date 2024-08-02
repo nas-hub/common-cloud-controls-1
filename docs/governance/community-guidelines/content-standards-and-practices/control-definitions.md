@@ -27,7 +27,7 @@ This following list outlines the values necessary to create a new control defini
 ## Example
 
 ```markdown
-# CCC.OS: Object Storage v25.07
+# CCC.OS: Object Storage
 
 | Control Id | Service Taxonomy Id | Control |
 |---|---|---|
